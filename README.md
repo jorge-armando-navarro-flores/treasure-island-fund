@@ -1,4 +1,4 @@
-# band-name-generator-start
+# Treasure island
 
 This is a little game where you can find a treasure or lose according to your decisions.
 
